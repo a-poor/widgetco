@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "src/";
+option go_package = "github.com/a-poor/widgetco";
 package widgetco;
 
 
